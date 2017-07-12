@@ -1,0 +1,8 @@
+C:\Users\matth\workspace\seeSharpExercises\tooMuchNickleback\bin\Debug\netcoreapp1.1\tooMuchNickleback.deps.json
+C:\Users\matth\workspace\seeSharpExercises\tooMuchNickleback\bin\Debug\netcoreapp1.1\tooMuchNickleback.runtimeconfig.json
+C:\Users\matth\workspace\seeSharpExercises\tooMuchNickleback\bin\Debug\netcoreapp1.1\tooMuchNickleback.runtimeconfig.dev.json
+C:\Users\matth\workspace\seeSharpExercises\tooMuchNickleback\bin\Debug\netcoreapp1.1\tooMuchNickleback.dll
+C:\Users\matth\workspace\seeSharpExercises\tooMuchNickleback\bin\Debug\netcoreapp1.1\tooMuchNickleback.pdb
+C:\Users\matth\workspace\seeSharpExercises\tooMuchNickleback\obj\Debug\netcoreapp1.1\tooMuchNickleback.AssemblyInfo.cs
+C:\Users\matth\workspace\seeSharpExercises\tooMuchNickleback\obj\Debug\netcoreapp1.1\tooMuchNickleback.dll
+C:\Users\matth\workspace\seeSharpExercises\tooMuchNickleback\obj\Debug\netcoreapp1.1\tooMuchNickleback.pdb
